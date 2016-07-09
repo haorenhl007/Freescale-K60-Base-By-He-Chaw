@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\build\fire_demo\fire_demo.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\build\gpio_demo\fire_gpio_demo.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\build\led_demo\fire_led_demo.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\build\exti_demo\fire_exti_demo.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\build\uart_send_demo\fire_uart_send_demo.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\build\uart_loop_demo\fire_uart_loop_demo.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\build\uart_int_demo\fire_uart_int_demo.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\build\adc_demo\fire_adc_demo.ewp</path>
+  </project>
+  <project>
+    <path>$WS_DIR$\build\ucos_led_demo\fire_ucos_led_demo.ewp</path>
+  </project>
+  <batchBuild/>
+</workspace>
+
+
